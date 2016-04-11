@@ -7,3 +7,6 @@ This is the branch of master
 
 Now, here is another conflicts
 
+
+Now I add some new things
+
